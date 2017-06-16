@@ -1,4 +1,4 @@
--- Author Kingman
+-- Author: Kingman
 -- kingman@kingmangames.org
 
 RegisterServerEvent("chatMessage")
